@@ -3,6 +3,7 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 set smartindent
+set autoindent
 set exrc
 set number
 set relativenumber
@@ -26,9 +27,13 @@ set updatetime=50
 set shortmess+=c
 
 call plug#begin('~/.vim/plugged')
+
+" Telescope packages
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+
+" LSP packages
 Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/cmp-nvim-lsp'
 Plug 'hrsh7th/cmp-buffer'
@@ -37,7 +42,11 @@ Plug 'hrsh7th/cmp-cmdline'
 Plug 'hrsh7th/nvim-cmp'
 Plug 'hrsh7th/cmp-vsnip'
 Plug 'hrsh7th/vim-vsnip'
+
+" Colorscheme packages
 Plug 'gruvbox-community/gruvbox'
+Plug 'tomasr/molokai'
+
 call plug#end()
 
 colorscheme gruvbox
