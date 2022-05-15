@@ -33,6 +33,12 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
+" Auto brackets
+Plug 'jiangmiao/auto-pairs'
+
+" Kotlin syntax highlighting
+Plug 'udalov/kotlin-vim'
+
 " LSP packages
 Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/cmp-nvim-lsp'
