@@ -139,3 +139,6 @@ lua <<EOF
     capabilities = capabilities
   }
 EOF
+
+" Press ESC in terminal to exit
+tnoremap <Esc> <C-\><C-n>
