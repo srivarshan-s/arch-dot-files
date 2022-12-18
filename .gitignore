@@ -7,3 +7,17 @@ teams/
 Code/
 libreoffice/4/
 LanguageTool/
+kde.org/
+.gitignore
+dconf/
+gtkrc
+gtkrc-2.0
+kconf_updaterc
+kglobalshortcutsrc
+ksmserverrc
+kwinrc
+plasma-org.kde.plasma.desktop-appletsrc
+plasmashellrc
+session/
+ksmserverrc
+kscreenlockerrc
