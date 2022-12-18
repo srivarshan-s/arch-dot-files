@@ -1,7 +1,0 @@
-2022/12/18-11:21:49.402 44d0d Reusing MANIFEST /home/sri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/18-11:21:49.403 44d0d Recovering log #3
-2022/12/18-11:21:49.407 44d0d Reusing old log /home/sri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
-2022/12/18-11:26:41.489 44427 Level-0 table #5: started
-2022/12/18-11:26:41.511 44427 Level-0 table #5: 1329826 bytes OK
-2022/12/18-11:26:41.515 44427 Delete type=0 #3
-2022/12/18-11:26:41.515 44427 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

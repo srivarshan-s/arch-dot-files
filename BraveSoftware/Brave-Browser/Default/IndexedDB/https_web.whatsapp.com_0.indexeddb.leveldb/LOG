@@ -1,6 +1,0 @@
-2022/12/18-10:47:06.226 43887 Reusing MANIFEST /home/sri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/18-10:47:06.226 43887 Recovering log #337
-2022/12/18-10:47:06.226 43887 Reusing old log /home/sri/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000337.log 
-2022/12/18-12:12:19.963 46ace Level-0 table #354: started
-2022/12/18-12:12:20.033 46ace Level-0 table #354: 1162344 bytes OK
-2022/12/18-12:12:20.039 46ace Delete type=0 #337

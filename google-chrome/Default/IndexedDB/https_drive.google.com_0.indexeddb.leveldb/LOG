@@ -1,6 +1,0 @@
-2022/12/18-11:16:52.215 4536d Reusing MANIFEST /home/sri/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/18-11:16:52.216 4536d Recovering log #4
-2022/12/18-11:16:52.238 4536d Reusing old log /home/sri/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
-2022/12/18-11:17:20.718 45395 Level-0 table #8: started
-2022/12/18-11:17:20.750 45395 Level-0 table #8: 1728506 bytes OK
-2022/12/18-11:17:20.756 45395 Delete type=0 #4
