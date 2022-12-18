@@ -5615,3 +5615,29 @@ Sun Dec 18 2022 12:12:07 GMT+0530 (India Standard Time) <281918> -- info -- Mach
 Sun Dec 18 2022 12:12:37 GMT+0530 (India Standard Time) <281918> -- info -- Machine has been idle for 3 seconds 
 Sun Dec 18 2022 12:13:07 GMT+0530 (India Standard Time) <281918> -- info -- Machine has been idle for 0 seconds 
 Sun Dec 18 2022 12:13:37 GMT+0530 (India Standard Time) <281918> -- info -- Machine has been idle for 0 seconds 
+Sun Dec 18 2022 12:14:07 GMT+0530 (India Standard Time) <281918> -- info -- Machine has been idle for 0 seconds 
+Sun Dec 18 2022 12:14:37 GMT+0530 (India Standard Time) <281918> -- info -- Machine has been idle for 3 seconds 
+Sun Dec 18 2022 12:14:42 GMT+0530 (India Standard Time) <281918> -- info -- Focusing main window 
+Sun Dec 18 2022 12:14:42 GMT+0530 (India Standard Time) <281918> -- info -- Is foreground set to true 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- info -- Saved window state to {"monitorId":15885743998107714,"x":72,"y":32,"width":1280,"height":751,"isMaximized":true,"isFullScreen":false} 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- info -- Preventing app from closing. 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- info -- Main window is closing. Raising event of mainWindowClose. 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- info -- SharingIndicator Desktop: _hide called 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- error -- [screenSharing][control] appSharingToolbar: "this" does not bind to AppSharingToolbar object in closeWindow 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- error -- [screenSharing][control] appSharingToolbar: "this" does not bind to AppSharingToolbar object in closeWindow 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- error -- [screenSharing][control] appSharingToolbar: "this" does not bind to AppSharingToolbar object in closeWindow 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- info -- Saved window state to {"monitorId":15885743998107714,"x":72,"y":32,"width":1280,"height":751,"isMaximized":true,"isFullScreen":false} 
+Sun Dec 18 2022 12:14:43 GMT+0530 (India Standard Time) <281918> -- info -- Unload Event. WebAppState changed 
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- info -- Main window closed 
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- info -- Main window is closing. 
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- info -- PluginHost #1: destroying instance 
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- error -- There are 1 open windows after main window closed, force closing all windows 
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- event -- eventpdclevel: 2, name: desktop_orphan_windows, count: 1, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: true, userpdclevel: 0, processMemory: 23910632, freeMemory: 253538304, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 1, pluggedin: true, UserInfo.TimeZone: +05:30, vdiMode: 0,  
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- info -- Middleware:: Action: 
+{"type":"WINDOW_CLOSED","windowId":"main-window","rendererId":"main-renderer","closedTime":5029234.559904002} 
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- info -- Middleware:: Action: 
+{"type":"WEBCONTENTS_DESTROYED","webContentsId":"1","time":5029271.733268999} 
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- event -- eventpdclevel: 3, appState: window-all-closed, status: success, scenario: 347df921-41a2-4912-802d-c90468b83abb, scenarioName: desktop_app_quit_close_window, name: desktop_app_quit_close_window, step: start, sequence: 0, delta: 0, scenarioDelta: 0, elapsed: 5028750, stepDelta: 0, Scenario.Mode: 1, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: true, userpdclevel: 0, processMemory: 23963400, freeMemory: 617353216, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 1, pluggedin: true, UserInfo.TimeZone: +05:30, vdiMode: 0, Scenario.Name: desktop_app_quit_close_window, Scenario.Step: start, Scenario.Status: success,  
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- event -- eventpdclevel: 3, appState: window-all-closed, status: success, scenario: 347df921-41a2-4912-802d-c90468b83abb, scenarioName: desktop_app_quit_close_window, name: desktop_app_quit_close_window, step: stop, sequence: 1, delta: 1, scenarioDelta: 1, elapsed: 5028751, stepDelta: 1, Scenario.Mode: 1, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: true, userpdclevel: 0, processMemory: 23981376, freeMemory: 617353216, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 1, pluggedin: true, UserInfo.TimeZone: +05:30, vdiMode: 0, Scenario.Name: desktop_app_quit_close_window, Scenario.Step: stop, Scenario.Status: success,  
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- warning -- Exception in onErrorOccurred callback: Message: Cannot read property 'webContents' of null 
+Sun Dec 18 2022 12:14:44 GMT+0530 (India Standard Time) <281918> -- warning -- Exception in onErrorOccurred callback: Message: Cannot read property 'webContents' of null 
