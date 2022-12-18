@@ -8,6 +8,24 @@ window:
   decorations: Full
   opacity: 0.97
 
+font:
+  normal:
+    family: FiraCode Nerd Font
+    style: Regular
+  bold:
+    family: FiraCode Nerd Font
+    style: Bold
+  italic:
+    family: FiraCode Nerd Font
+    style: Italic
+  bold_italic:
+    family: FiraCode Nerd Font
+    style: Bold Italic
+  size: 11.0
+
+key_bindings:
+  - { key: F11, action: ToggleFullscreen }
+
 # Colors (Gruvbox dark)
 colors:
   primary:
