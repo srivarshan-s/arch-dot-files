@@ -1,0 +1,253 @@
+[Info  - 5:21:44 PM] (2857) Pylance language server 2022.12.20 (pyright 621d886b) starting
+[Info  - 5:21:44 PM] (2857) Server root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 5:21:44 PM] (2857) Starting service instance "arguementation-analyzer"
+[Info  - 5:21:44 PM] (2857) Notebook support: LSP
+[Info  - 5:21:44 PM] (2857) Interactive window support: LSP
+[Info  - 5:21:44 PM] (2857) No configuration file found.
+[Info  - 5:21:44 PM] (2857) No pyproject.toml file found.
+[Info  - 5:21:44 PM] (2857) Setting pythonPath for service "arguementation-analyzer": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 5:21:44 PM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 5:21:44 PM] (2857) Assuming Python version 3.10
+[Info  - 5:21:44 PM] (2857) Assuming Python platform Linux
+[Info  - 5:21:44 PM] (2857) Searching for source files
+[Info  - 5:21:45 PM] (2857) Auto-excluding /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv
+[Info  - 5:21:45 PM] (2857) Found 4 source files
+[Info  - 5:21:45 PM] (2857) Background analysis(1) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 5:21:45 PM] (2857) Background analysis(1) started
+[Info  - 5:21:45 PM] (2857) Indexer background runner(2) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 5:21:45 PM] (2857) Indexing(2) started
+[Info  - 5:21:46 PM] (2857) scanned(2) 288 files over 1 exec env
+[Info  - 5:21:49 PM] (2857) [IDX(2)] Long operation: index execution environment /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (3680ms)
+[Info  - 5:21:49 PM] (2857) [IDX(2)] Long operation: index packages /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (3682ms)
+[Info  - 5:21:49 PM] (2857) indexed(2) 208 files over 1 exec env
+[Info  - 5:21:49 PM] (2857) Indexing finished(2).
+[Info  - 6:02:52 PM] (2857) Indexer background runner(3) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (refresh)
+[Info  - 6:02:52 PM] (2857) Indexing(3) started
+[Info  - 6:02:52 PM] (2857) scanned(3) 288 files over 1 exec env
+[Info  - 6:02:57 PM] (2857) [IDX(3)] Long operation: index execution environment /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (4583ms)
+[Info  - 6:02:57 PM] (2857) [IDX(3)] Long operation: index packages /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (4585ms)
+[Info  - 6:02:57 PM] (2857) indexed(3) 208 files over 1 exec env
+[Info  - 6:02:57 PM] (2857) Indexing finished(3).
+[Info  - 6:03:13 PM] (2857) Indexer background runner(4) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (refresh)
+[Info  - 6:03:13 PM] (2857) Indexing(4) started
+[Info  - 6:03:13 PM] (2857) scanned(4) 288 files over 1 exec env
+[Info  - 6:03:18 PM] (2857) [IDX(4)] Long operation: index execution environment /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (4364ms)
+[Info  - 6:03:18 PM] (2857) [IDX(4)] Long operation: index packages /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (4366ms)
+[Info  - 6:03:18 PM] (2857) indexed(4) 208 files over 1 exec env
+[Info  - 6:03:18 PM] (2857) Indexing finished(4).
+[Info  - 11:37:06 PM] (2857) Searching for source files
+[Error - 11:37:06 PM] (2857) File or directory "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer" does not exist.
+[Info  - 11:37:06 PM] (2857) Found 1 source file
+[Info  - 11:37:11 PM] (2857) Indexer background runner(5) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (refresh)
+[Info  - 11:37:11 PM] (2857) Indexing(5) started
+[Info  - 11:37:12 PM] (2857) scanned(5) 4 files over 1 exec env
+[Info  - 11:37:12 PM] (2857) indexed(5) 4 files over 1 exec env
+[Info  - 11:37:12 PM] (2857) Indexing finished(5).
+[Info  - 11:42:35 PM] (2857) No configuration file found.
+[Info  - 11:42:35 PM] (2857) No pyproject.toml file found.
+[Info  - 11:42:35 PM] (2857) Setting pythonPath for service "arguementation-analyzer": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 11:42:35 PM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 11:42:35 PM] (2857) Assuming Python version 3.10
+[Info  - 11:42:35 PM] (2857) Assuming Python platform Linux
+[Info  - 11:42:35 PM] (2857) Searching for source files
+[Info  - 11:42:35 PM] (2857) Auto-excluding /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv
+[Info  - 11:42:35 PM] (2857) Found 1 source file
+[Info  - 11:42:36 PM] (2857) Indexer background runner(6) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 11:42:36 PM] (2857) Indexing(6) started
+[Info  - 11:42:36 PM] (2857) scanned(6) 4 files over 1 exec env
+[Info  - 11:42:36 PM] (2857) indexed(6) 4 files over 1 exec env
+[Info  - 11:42:36 PM] (2857) Indexing finished(6).
+[Info  - 8:51:30 AM] (2857) Indexer background runner(7) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (refresh)
+[Info  - 8:51:30 AM] (2857) Indexing(7) started
+[Info  - 8:51:31 AM] (2857) scanned(7) 258 files over 1 exec env
+[Info  - 8:51:32 AM] (2857) [BG(1)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/app.py (2068ms)
+[Info  - 8:51:35 AM] (2857) [IDX(7)] Long operation: index execution environment /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (3986ms)
+[Info  - 8:51:35 AM] (2857) [IDX(7)] Long operation: index packages /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (3991ms)
+[Info  - 8:51:35 AM] (2857) indexed(7) 183 files over 1 exec env
+[Info  - 8:51:35 AM] (2857) Indexing finished(7).
+[Info  - 9:12:22 AM] (2857) Starting service instance "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb"
+[Info  - 9:12:22 AM] (2857) No configuration file found.
+[Info  - 9:12:22 AM] (2857) No pyproject.toml file found.
+[Info  - 9:12:22 AM] (2857) Setting pythonPath for service "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 9:12:22 AM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 9:12:22 AM] (2857) Assuming Python version 3.10
+[Info  - 9:12:22 AM] (2857) Assuming Python platform Linux
+[Info  - 9:12:22 AM] (2857) Searching for source files
+[Info  - 9:12:22 AM] (2857) No source files found.
+[Info  - 9:12:22 AM] (2857) Background analysis(8) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 9:12:22 AM] (2857) Background analysis(8) started
+[Info  - 9:12:23 AM] (2857) Indexer background runner(9) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 9:12:23 AM] (2857) Indexing(9) started
+[Info  - 9:12:23 AM] (2857) scanned(9) 258 files over 1 exec env
+[Info  - 9:12:24 AM] (2857) indexed(9) 0 files over 1 exec env
+[Info  - 9:12:24 AM] (2857) Indexing finished(9).
+[Info  - 9:12:27 AM] (2857) No configuration file found.
+[Info  - 9:12:27 AM] (2857) No pyproject.toml file found.
+[Info  - 9:12:27 AM] (2857) Setting pythonPath for service "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 9:12:27 AM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 9:12:28 AM] (2857) Assuming Python version 3.10
+[Info  - 9:12:28 AM] (2857) Assuming Python platform Linux
+[Info  - 9:12:28 AM] (2857) Searching for source files
+[Info  - 9:12:28 AM] (2857) Found 108 source files
+[Info  - 9:12:28 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (3996ms)
+[Info  - 9:12:28 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (4059ms)
+[Info  - 9:12:29 AM] (2857) Indexer background runner(10) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 9:12:29 AM] (2857) Indexing(10) started
+[Info  - 9:12:29 AM] (2857) scanned(10) 258 files over 1 exec env
+[Info  - 9:12:30 AM] (2857) indexed(10) 0 files over 1 exec env
+[Info  - 9:12:30 AM] (2857) Indexing finished(10).
+[Info  - 9:12:31 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (3000ms)
+[Info  - 9:12:31 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (3038ms)
+[Info  - 9:12:38 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (5160ms)
+[Info  - 9:12:38 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (5161ms)
+[Info  - 9:12:42 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3493ms)
+[Info  - 9:12:42 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3494ms)
+[Info  - 9:13:31 AM] (2857) No configuration file found.
+[Info  - 9:13:31 AM] (2857) No pyproject.toml file found.
+[Info  - 9:13:31 AM] (2857) Setting pythonPath for service "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 9:13:31 AM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 9:13:31 AM] (2857) Assuming Python version 3.10
+[Info  - 9:13:31 AM] (2857) Assuming Python platform Linux
+[Info  - 9:13:32 AM] (2857) Searching for source files
+[Info  - 9:13:32 AM] (2857) Found 108 source files
+[Info  - 9:13:32 AM] (2857) No configuration file found.
+[Info  - 9:13:32 AM] (2857) No pyproject.toml file found.
+[Info  - 9:13:32 AM] (2857) Setting pythonPath for service "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 9:13:32 AM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 9:13:32 AM] (2857) Assuming Python version 3.10
+[Info  - 9:13:32 AM] (2857) Assuming Python platform Linux
+[Info  - 9:13:32 AM] (2857) Searching for source files
+[Info  - 9:13:32 AM] (2857) Found 108 source files
+[Info  - 9:13:32 AM] (2857) Indexer background runner(11) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 9:13:32 AM] (2857) Indexing(11) started
+[Info  - 9:13:33 AM] (2857) scanned(11) 258 files over 1 exec env
+[Info  - 9:13:33 AM] (2857) indexed(11) 0 files over 1 exec env
+[Info  - 9:13:33 AM] (2857) Indexing finished(11).
+[Info  - 9:13:35 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (3117ms)
+[Info  - 9:13:35 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (3142ms)
+[Info  - 9:13:42 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (4755ms)
+[Info  - 9:13:42 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (4757ms)
+[Info  - 9:13:46 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3651ms)
+[Info  - 9:13:46 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3652ms)
+[Info  - 9:13:51 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (3088ms)
+[Info  - 9:13:51 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (3089ms)
+[Info  - 9:13:55 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3855ms)
+[Info  - 9:13:55 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3855ms)
+[Info  - 9:16:05 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2973ms)
+[Info  - 9:16:05 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2974ms)
+[Info  - 9:16:11 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2303ms)
+[Info  - 9:16:11 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2303ms)
+[Info  - 9:16:14 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2485ms)
+[Info  - 9:16:14 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2486ms)
+[Info  - 9:16:21 AM] (2857) [BG(8)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2572ms)
+[Info  - 9:16:21 AM] (2857) [BG(8)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2573ms)
+[Info  - 9:55:20 AM] (2857) Starting service instance "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb"
+[Info  - 9:55:20 AM] (2857) No configuration file found.
+[Info  - 9:55:20 AM] (2857) No pyproject.toml file found.
+[Info  - 9:55:20 AM] (2857) Setting pythonPath for service "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 9:55:20 AM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 9:55:20 AM] (2857) Assuming Python version 3.10
+[Info  - 9:55:20 AM] (2857) Assuming Python platform Linux
+[Info  - 9:55:20 AM] (2857) Searching for source files
+[Info  - 9:55:20 AM] (2857) No source files found.
+[Info  - 9:55:21 AM] (2857) Background analysis(12) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 9:55:21 AM] (2857) No configuration file found.
+[Info  - 9:55:21 AM] (2857) No pyproject.toml file found.
+[Info  - 9:55:21 AM] (2857) Setting pythonPath for service "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 9:55:21 AM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 9:55:21 AM] (2857) Assuming Python version 3.10
+[Info  - 9:55:21 AM] (2857) Assuming Python platform Linux
+[Info  - 9:55:21 AM] (2857) Searching for source files
+[Info  - 9:55:21 AM] (2857) Found 108 source files
+[Info  - 9:55:21 AM] (2857) Background analysis(12) started
+[Info  - 9:55:21 AM] (2857) Indexer background runner(13) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 9:55:21 AM] (2857) Indexing(13) started
+[Info  - 9:55:22 AM] (2857) scanned(13) 258 files over 1 exec env
+[Info  - 9:55:22 AM] (2857) indexed(13) 0 files over 1 exec env
+[Info  - 9:55:22 AM] (2857) Indexing finished(13).
+[Info  - 9:55:27 AM] (2857) [BG(12)] Long operation: getSemanticTokens full at /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (5846ms)
+[Info  - 9:55:31 AM] (2857) No configuration file found.
+[Info  - 9:55:31 AM] (2857) No pyproject.toml file found.
+[Info  - 9:55:31 AM] (2857) Setting pythonPath for service "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 9:55:31 AM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 9:55:31 AM] (2857) Assuming Python version 3.10
+[Info  - 9:55:31 AM] (2857) Assuming Python platform Linux
+[Info  - 9:55:32 AM] (2857) Searching for source files
+[Info  - 9:55:32 AM] (2857) Found 108 source files
+[Info  - 9:55:32 AM] (2857) No configuration file found.
+[Info  - 9:55:32 AM] (2857) No pyproject.toml file found.
+[Info  - 9:55:32 AM] (2857) Setting pythonPath for service "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 9:55:32 AM] (2857) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 9:55:32 AM] (2857) Assuming Python version 3.10
+[Info  - 9:55:32 AM] (2857) Assuming Python platform Linux
+[Info  - 9:55:32 AM] (2857) Searching for source files
+[Info  - 9:55:32 AM] (2857) Found 108 source files
+[Info  - 9:55:32 AM] (2857) [BG(12)] Long operation: getSemanticTokens full at /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (4415ms)
+[Info  - 9:55:32 AM] (2857) Indexer background runner(14) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 9:55:32 AM] (2857) Indexing(14) started
+[Info  - 9:55:33 AM] (2857) scanned(14) 258 files over 1 exec env
+[Info  - 9:55:33 AM] (2857) indexed(14) 0 files over 1 exec env
+[Info  - 9:55:33 AM] (2857) Indexing finished(14).
+[Info  - 9:55:46 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (4247ms)
+[Info  - 9:55:46 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (4247ms)
+[Info  - 9:55:50 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3616ms)
+[Info  - 9:55:50 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3618ms)
+[Info  - 9:56:44 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2609ms)
+[Info  - 9:56:44 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2609ms)
+[Info  - 9:56:49 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2030ms)
+[Info  - 9:56:49 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2031ms)
+[Info  - 9:56:51 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2313ms)
+[Info  - 9:56:51 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2314ms)
+[Info  - 9:58:22 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2479ms)
+[Info  - 9:58:22 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2480ms)
+[Info  - 9:58:24 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2534ms)
+[Info  - 9:58:24 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2535ms)
+[Info  - 9:58:58 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2298ms)
+[Info  - 9:58:58 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2298ms)
+[Info  - 9:59:06 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2231ms)
+[Info  - 9:59:06 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2231ms)
+[Info  - 9:59:12 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2040ms)
+[Info  - 9:59:12 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X45sZmlsZQ==.py (2041ms)
+[Info  - 9:59:15 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3393ms)
+[Info  - 9:59:15 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (3394ms)
+[Info  - 10:13:39 AM] (2857) Indexer background runner(15) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (refresh)
+[Info  - 10:13:39 AM] (2857) Indexing(15) started
+[Info  - 10:13:40 AM] (2857) scanned(15) 282 files over 1 exec env
+[Info  - 10:13:41 AM] (2857) indexed(15) 19 files over 1 exec env
+[Info  - 10:13:41 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (2174ms)
+[Info  - 10:13:41 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (2217ms)
+[Info  - 10:13:42 AM] (2857) [BG(1)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/app.py (2824ms)
+[Info  - 10:13:42 AM] (2857) [BG(1)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/app.py (2987ms)
+[Info  - 10:13:42 AM] (2857) scanned(15) 282 files over 1 exec env
+[Info  - 10:13:42 AM] (2857) indexed(15) 0 files over 1 exec env
+[Info  - 10:13:42 AM] (2857) Indexing finished(15).
+[Info  - 10:13:45 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (2305ms)
+[Info  - 10:13:45 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (2306ms)
+[Info  - 10:13:47 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2395ms)
+[Info  - 10:13:47 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2395ms)
+[Info  - 10:14:27 AM] (2857) Indexer background runner(16) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (refresh)
+[Info  - 10:14:27 AM] (2857) Indexing(16) started
+[Info  - 10:14:28 AM] (2857) scanned(16) 282 files over 1 exec env
+[Info  - 10:14:28 AM] (2857) indexed(16) 0 files over 1 exec env
+[Info  - 10:14:28 AM] (2857) scanned(16) 282 files over 1 exec env
+[Info  - 10:14:29 AM] (2857) indexed(16) 0 files over 1 exec env
+[Info  - 10:14:29 AM] (2857) Indexing finished(16).
+[Info  - 10:14:29 AM] (2857) [BG(1)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/app.py (2302ms)
+[Info  - 10:14:29 AM] (2857) [BG(1)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/app.py (2435ms)
+[Info  - 10:14:33 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2168ms)
+[Info  - 10:14:33 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2168ms)
+[Info  - 10:17:00 AM] (2857) Indexer background runner(17) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (refresh)
+[Info  - 10:17:00 AM] (2857) Indexing(17) started
+[Info  - 10:17:01 AM] (2857) scanned(17) 282 files over 1 exec env
+[Info  - 10:17:01 AM] (2857) indexed(17) 0 files over 1 exec env
+[Info  - 10:17:02 AM] (2857) scanned(17) 282 files over 1 exec env
+[Info  - 10:17:02 AM] (2857) indexed(17) 0 files over 1 exec env
+[Info  - 10:17:02 AM] (2857) Indexing finished(17).
+[Info  - 10:17:03 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (2638ms)
+[Info  - 10:17:03 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:W4sZmlsZQ==.py (2697ms)
+[Info  - 10:17:03 AM] (2857) [BG(1)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/app.py (3499ms)
+[Info  - 10:17:03 AM] (2857) [BG(1)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/app.py (3693ms)
+[Info  - 10:17:06 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (2130ms)
+[Info  - 10:17:06 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X36sZmlsZQ==.py (2130ms)
+[Info  - 10:17:08 AM] (2857) [BG(12)] Long operation: checking: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2628ms)
+[Info  - 10:17:08 AM] (2857) [BG(12)] Long operation: analyzing: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/temp/main.ipynb:pylance-notebook-cell:X50sZmlsZQ==.py (2628ms)

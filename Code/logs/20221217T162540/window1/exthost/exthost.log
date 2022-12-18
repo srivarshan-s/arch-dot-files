@@ -1,0 +1,20 @@
+2022-12-17 16:25:43.994 [info] Extension host with pid 42871 started
+2022-12-17 16:25:43.994 [info] Skipping acquiring lock for /home/sri/.config/Code/User/workspaceStorage/3ea74d710049541c3f489416c2fca9aa.
+2022-12-17 16:25:44.120 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-12-17 16:25:44.121 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-12-17 16:25:44.337 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-17 16:25:44.357 [info] Eager extensions activated
+2022-12-17 16:25:44.359 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 16:25:44.359 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 16:25:44.359 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 16:25:44.413 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2022-12-17 16:25:44.888 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2022-12-17 16:25:45.190 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 16:25:45.242 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 16:26:13.204 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-17 16:26:13.204 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-17 16:26:13.205 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-17 16:26:14.208 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2022-12-17 16:26:14.208 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2022-12-17 16:26:14.844 [info] Extension host terminating: renderer closed the socket
+2022-12-17 16:26:14.874 [info] Extension host with pid 42871 exiting with code 0

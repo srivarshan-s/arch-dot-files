@@ -1,0 +1,66 @@
+2022-12-17 17:21:43.225 [info] [perf] Render performance baseline is 210ms
+2022-12-17 17:55:49.242 [info] UNRESPONSIVE extension host: starting to profile NOW
+2022-12-17 23:37:01.174 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2022-12-17 23:37:06.903 [error] [Extension Host] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at runNextTicks (node:internal/process/task_queues:65:3)
+	at process.processTimers (node:internal/timers:499:9)
+2022-12-17 23:37:06.904 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/opt/visual-studio-code/resources/app/out/bootstrap.js:1:398)
+	at process.emit (node:events:526:28)
+2022-12-17 23:37:07.894 [error] spawn git ENOENT: Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at runNextTicks (node:internal/process/task_queues:65:3)
+	at process.processTimers (node:internal/timers:499:9)
+2022-12-18 08:50:59.274 [info] UNRESPONSIVE extension host: starting to profile NOW
+2022-12-18 09:15:31.119 [error] NotebookCellFindMatch: index out of range: Error: NotebookCellFindMatch: index out of range
+    at l.getMatch (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:9079)
+    at c.getCurrentMatch (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:9976)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:17255
+    at u.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at y.changeMatchInfo (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:742:37734)
+    at c.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:13252)
+    at c.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:13856)
+    at d (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:11917)
+    at c._research (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:12312)
+2022-12-18 09:15:44.728 [error] NotebookCellFindMatch: index out of range: Error: NotebookCellFindMatch: index out of range
+    at l.getMatch (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:9079)
+    at c.getCurrentMatch (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:9976)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:17255
+    at u.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at y.changeMatchInfo (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:742:37734)
+    at c.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:13252)
+    at c.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:13856)
+    at c._research (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:12530)
+2022-12-18 09:18:00.295 [error] NotebookCellFindMatch: index out of range: Error: NotebookCellFindMatch: index out of range
+    at l.getMatch (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:9079)
+    at c.getCurrentMatch (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:9976)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:17255
+    at u.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at y.changeMatchInfo (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:742:37734)
+    at c.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:13252)
+    at c.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:13856)
+    at c._research (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:12530)
+2022-12-18 09:58:44.094 [error] NotebookCellFindMatch: index out of range: Error: NotebookCellFindMatch: index out of range
+    at l.getMatch (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:9079)
+    at c.getCurrentMatch (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:9976)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:17255
+    at u.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:145)
+    at s.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:2029)
+    at d.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:85:1667)
+    at y.changeMatchInfo (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:742:37734)
+    at c.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:13252)
+    at c.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:13856)
+    at d (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:11917)
+    at c._research (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1199:12312)
+2022-12-18 09:58:46.530 [error] An unknown error occurred. Please consult the log for more details.

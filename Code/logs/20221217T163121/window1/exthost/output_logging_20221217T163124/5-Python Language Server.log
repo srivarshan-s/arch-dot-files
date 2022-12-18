@@ -1,0 +1,23 @@
+[Info  - 4:31:27 PM] (43987) Pylance language server 2022.12.20 (pyright 621d886b) starting
+[Info  - 4:31:27 PM] (43987) Server root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 4:31:27 PM] (43987) Starting service instance "arguementation-analyzer"
+[Info  - 4:31:27 PM] (43987) Notebook support: LSP
+[Info  - 4:31:27 PM] (43987) Interactive window support: LSP
+[Info  - 4:31:28 PM] (43987) No configuration file found.
+[Info  - 4:31:28 PM] (43987) No pyproject.toml file found.
+[Info  - 4:31:28 PM] (43987) Setting pythonPath for service "arguementation-analyzer": "/home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python"
+[Warn  - 4:31:28 PM] (43987) stubPath /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/typings is not a valid directory.
+[Info  - 4:31:28 PM] (43987) Assuming Python version 3.10
+[Info  - 4:31:28 PM] (43987) Assuming Python platform Linux
+[Info  - 4:31:28 PM] (43987) Searching for source files
+[Info  - 4:31:28 PM] (43987) Auto-excluding /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv
+[Info  - 4:31:28 PM] (43987) Found 4 source files
+[Info  - 4:31:28 PM] (43987) Background analysis(1) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 4:31:28 PM] (43987) Background analysis(1) started
+[Info  - 4:31:28 PM] (43987) Indexer background runner(2) root directory: /home/sri/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 4:31:28 PM] (43987) Indexing(2) started
+[Info  - 4:31:29 PM] (43987) scanned(2) 288 files over 1 exec env
+[Info  - 4:31:33 PM] (43987) [IDX(2)] Long operation: index execution environment /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (4232ms)
+[Info  - 4:31:33 PM] (43987) [IDX(2)] Long operation: index packages /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer (4235ms)
+[Info  - 4:31:33 PM] (43987) indexed(2) 208 files over 1 exec env
+[Info  - 4:31:33 PM] (43987) Indexing finished(2).

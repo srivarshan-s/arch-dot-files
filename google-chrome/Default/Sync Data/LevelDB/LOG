@@ -1,0 +1,6 @@
+2022/12/18-11:18:04.047 454fc Reusing MANIFEST /home/sri/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/12/18-11:18:04.048 454fc Recovering log #3
+2022/12/18-11:18:04.053 454fc Reusing old log /home/sri/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2022/12/18-11:18:23.070 454f2 Level-0 table #5: started
+2022/12/18-11:18:23.079 454f2 Level-0 table #5: 175800 bytes OK
+2022/12/18-11:18:23.084 454f2 Delete type=0 #3

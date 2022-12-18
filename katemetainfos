@@ -1,0 +1,47 @@
+[file:///home/sri/.config/alacritty/alacritty.yml]
+Bookmarks=
+Checksum=53392986361e790ab767e445cc95100cf28fd95c
+Encoding=UTF-8
+Highlighting=YAML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=YAML
+Mode Set By User=false
+Time=2022,12,17,8,52,45.921
+URL=file:///home/sri/.config/alacritty/alacritty.yml
+
+[file:///home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/lib/python3.10/site-packages/fastapi-0.88.0.dist-info/METADATA]
+Bookmarks=
+Checksum=3796f1a2ff3e9e0a440615da434d07e589654fcd
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2022,12,17,12,34,39.582
+URL=file:///home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/lib/python3.10/site-packages/fastapi-0.88.0.dist-info/METADATA
+
+[file:///run/media/sri/OS/Users/sriva/Downloads/Config-Backup/nvim/init.lua]
+Bookmarks=
+Checksum=98336ec164b389fa1738848ec8211e3c6c50be54
+Encoding=UTF-8
+Highlighting=Lua
+Highlighting Set By User=false
+Indentation Mode=lua
+Mode=Lua
+Mode Set By User=false
+Time=2022,12,17,9,43,30.723
+URL=file:///run/media/sri/OS/Users/sriva/Downloads/Config-Backup/nvim/init.lua
+
+[file:///run/media/sri/OS/Users/sriva/Downloads/Config-Backup/nvim/lua/remap.lua]
+Bookmarks=
+Checksum=ada47691f7682cadb68244c82a9f865a09e2d4f8
+Encoding=UTF-8
+Highlighting=Lua
+Highlighting Set By User=false
+Indentation Mode=lua
+Mode=Lua
+Mode Set By User=false
+Time=2022,12,17,9,43,50.815
+URL=file:///run/media/sri/OS/Users/sriva/Downloads/Config-Backup/nvim/lua/remap.lua

@@ -1,0 +1,14 @@
+2022/12/17-21:38:22.167 86d9 Reusing MANIFEST /home/sri/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/17-21:38:22.167 86d9 Recovering log #51
+2022/12/17-21:38:22.167 86d9 Reusing old log /home/sri/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000051.log 
+2022/12/17-21:38:47.325 87ae Level-0 table #62: started
+2022/12/17-21:38:47.339 87ae Level-0 table #62: 340423 bytes OK
+2022/12/17-21:38:47.342 87ae Delete type=0 #51
+2022/12/17-21:38:47.342 87ae Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/12/17-21:39:31.262 87ae Compacting 1@1 + 4@2 files
+2022/12/17-21:39:31.384 87ae Generated table #63@1: 1372 keys, 2143411 bytes
+2022/12/17-21:39:31.421 87ae Generated table #64@1: 4911 keys, 2154289 bytes
+2022/12/17-21:39:31.462 87ae Generated table #65@1: 6365 keys, 2157627 bytes
+2022/12/17-21:39:31.546 87ae Generated table #66@1: 12981 keys, 1853634 bytes
+2022/12/17-21:39:31.546 87ae Compacted 1@1 + 4@2 files => 8308961 bytes
+2022/12/17-21:39:31.549 87ae compacted to: files[ 0 0 4 0 0 0 0 ]

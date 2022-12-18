@@ -1,0 +1,7 @@
+2022-12-17 16:25:42.941 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sri/.vscode/extensions
+2022-12-17 16:25:43.016 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sri/.vscode/extensions
+2022-12-17 16:25:45.924 [info] [perf] Render performance baseline is 178ms
+2022-12-17 16:25:52.528 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+2022-12-17 16:25:53.254 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+2022-12-17 16:26:11.129 [info] Setting search error: Unexpected end of JSON input
+2022-12-17 16:26:11.194 [info] Setting search error: Unexpected end of JSON input

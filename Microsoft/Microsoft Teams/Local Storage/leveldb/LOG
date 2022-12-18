@@ -1,0 +1,11 @@
+2022/12/18-10:50:56.022 44d43 Reusing MANIFEST /home/sri/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/12/18-10:50:56.025 44d43 Recovering log #34
+2022/12/18-10:50:56.054 44d43 Level-0 table #38: started
+2022/12/18-10:50:56.066 44d43 Level-0 table #38: 580180 bytes OK
+2022/12/18-10:50:56.070 44d43 Delete type=0 #34
+2022/12/18-10:51:56.845 44efc Level-0 table #41: started
+2022/12/18-10:51:56.866 44efc Level-0 table #41: 215980 bytes OK
+2022/12/18-10:51:56.869 44efc Delete type=0 #39
+2022/12/18-11:40:05.371 44efc Level-0 table #43: started
+2022/12/18-11:40:05.378 44efc Level-0 table #43: 111292 bytes OK
+2022/12/18-11:40:05.381 44efc Delete type=0 #40

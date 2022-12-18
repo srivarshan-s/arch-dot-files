@@ -1,0 +1,22 @@
+2022-12-17 16:25:45.106 [info] Log level: Info
+2022-12-17 16:25:45.106 [info] Validating found git in: "git"
+2022-12-17 16:25:45.106 [info] Using git "2.39.0" from "git"
+2022-12-17 16:25:45.106 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-17 16:25:45.106 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2022-12-17 16:25:45.106 [info] Open repository: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer
+2022-12-17 16:25:45.106 [info] > git rev-parse --show-toplevel [13ms]
+2022-12-17 16:25:45.106 [info] > git config --get commit.template [13ms]
+2022-12-17 16:25:45.107 [info] > git rev-parse --show-toplevel [7ms]
+2022-12-17 16:25:45.120 [info] > git rev-parse --show-toplevel [7ms]
+2022-12-17 16:25:45.125 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-17 16:25:45.130 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-17 16:25:45.150 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2022-12-17 16:25:45.164 [info] > git status -z -uall [8ms]
+2022-12-17 16:25:45.169 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2022-12-17 16:25:45.211 [info] > git config --get commit.template [7ms]
+2022-12-17 16:25:45.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2022-12-17 16:25:45.224 [info] > git status -z -uall [7ms]
+2022-12-17 16:25:45.229 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2022-12-17 16:25:45.596 [info] > git check-ignore -v -z --stdin [3ms]
+2022-12-17 16:25:48.961 [info] > git show --textconv :model.py [7ms]
+2022-12-17 16:25:48.962 [info] > git ls-files --stage -- /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/model.py [2ms]

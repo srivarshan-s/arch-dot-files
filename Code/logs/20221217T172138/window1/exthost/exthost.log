@@ -1,0 +1,59 @@
+2022-12-17 17:21:40.906 [info] Extension host with pid 2758 started
+2022-12-17 17:21:40.906 [info] Skipping acquiring lock for /home/sri/.config/Code/User/workspaceStorage/3ea74d710049541c3f489416c2fca9aa.
+2022-12-17 17:21:41.144 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.isort
+2022-12-17 17:21:41.144 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2022-12-17 17:21:41.144 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2022-12-17 17:21:41.145 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-17 17:21:42.145 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2022-12-17 17:21:42.146 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-17 17:21:42.146 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-17 17:21:42.289 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2022-12-17 17:21:42.289 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2022-12-17 17:21:42.514 [info] Eager extensions activated
+2022-12-17 17:21:42.595 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2022-12-17 17:21:42.596 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 17:21:42.597 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 17:21:42.597 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-17 17:21:42.915 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 17:21:43.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 17:21:44.740 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 17:22:28.244 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 17:59:28.515 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 22:20:10.815 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 22:27:07.713 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 22:27:12.798 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 22:30:27.010 [warning] [Decorations] CAPPING events from decorations provider vscode.git 638
+2022-12-17 23:37:06.890 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at runNextTicks (node:internal/process/task_queues:65:3)
+	at process.processTimers (node:internal/timers:499:9)
+2022-12-17 23:37:07.891 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at runNextTicks (node:internal/process/task_queues:65:3)
+	at process.processTimers (node:internal/timers:499:9)
+2022-12-17 23:42:36.185 [error] Error: write after end
+	at new NodeError (node:internal/errors:371:5)
+	at _write (node:internal/streams/writable:319:11)
+	at Writable.write (node:internal/streams/writable:334:10)
+	at /home/sri/.vscode/extensions/ms-python.isort-2022.8.0/dist/extension.js:1:127515
+	at new Promise (<anonymous>)
+	at u.write (/home/sri/.vscode/extensions/ms-python.isort-2022.8.0/dist/extension.js:1:127433)
+	at m.doWrite (/home/sri/.vscode/extensions/ms-python.isort-2022.8.0/dist/extension.js:1:117037)
+	at /home/sri/.vscode/extensions/ms-python.isort-2022.8.0/dist/extension.js:1:116932
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at process.processImmediate (node:internal/timers:437:9)
+2022-12-17 23:48:21.017 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2022-12-18 09:12:21.829 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2022-12-18 09:12:22.413 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2022-12-18 09:12:22.414 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2022-12-18 09:46:30.556 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2022-12-18 11:06:15.472 [info] Extension host terminating: received terminate message from renderer
+2022-12-18 11:06:15.593 [error] Error: The kernel died. Error: /home/sri/Documents/UTS Research/Hugging Face Spaces/arguementation-analyzer/venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/sri/.vscode/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2162610)
+	at ChildProcess.emit (node:events:538:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2022-12-18 11:06:15.612 [info] Extension host with pid 2758 exiting with code 0
