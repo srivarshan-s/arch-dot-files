@@ -1,2 +1,2 @@
 # linux-configs
-Linux config files for Ubuntu with Gnome desktop environment.
+Linux config files for Arch Linux with KDE desktop environment.
