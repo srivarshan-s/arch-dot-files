@@ -994,8 +994,11 @@ GesturePointData=0,0.0625,-0.5,0.5,1,0.0625,0.0625,-0.5,0.5,0.875,0.125,0.0625,-
 Type=GESTURE
 
 [General]
+BrowserApplication[$d]
 ColorScheme[$d]
 ColorSchemeHash[$d]
+TerminalApplication[$d]
+TerminalService[$d]
 
 [Gestures]
 Disabled=true
@@ -1011,6 +1014,7 @@ Theme[$d]
 
 [KDE]
 LookAndFeelPackage[$d]
+SingleClick[$d]
 widgetStyle[$d]
 
 [KScreen]
