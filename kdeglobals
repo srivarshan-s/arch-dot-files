@@ -136,7 +136,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [General]
-BrowserApplication=google-chrome.desktop
+BrowserApplication=brave-browser.desktop
 ColorSchemeHash=78952f1103f6f2c59b78c6ed5fa382c3f5ec18e7
 TerminalApplication=alacritty
 TerminalService=Alacritty.desktop

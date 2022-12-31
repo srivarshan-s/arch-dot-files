@@ -7,8 +7,8 @@ ToolBarsMovable=Disabled
 eDP-1=eDP-1
 eDP-1 Height 1536x864 eDP-1=554
 eDP-1 Width 1536x864 eDP-1=911
-eDP-1 XPosition 1536x864 eDP-1=250
-eDP-1 YPosition 1536x864 eDP-1=122
+eDP-1 XPosition 1536x864 eDP-1=315
+eDP-1 YPosition 1536x864 eDP-1=163
 
 [UiSettings]
-ColorScheme=
+ColorScheme=Breeze Dark
