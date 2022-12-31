@@ -23,3 +23,6 @@ ln -nfs ${BASEDIR}/fish ~/.config/.
 # INSTALL PACMAN & PARU
 sudo ln -nfs ${BASEDIR}/paru.conf /etc/paru.conf
 sudo ln -nfs ${BASEDIR}/pacman.conf /etc/pacman.conf
+
+# INSTALL CHROME FLAGS
+ln -nfs ${BASEDIR}/chrome-flags.conf ~/.config/chrome-flags.conf
