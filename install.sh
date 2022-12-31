@@ -15,7 +15,7 @@ ln -nfs ${BASEDIR}/.gitconfig ~/.gitconfig
 ln -nfs ${BASEDIR}/.tmux.conf ~/.tmux.conf
 
 # INSTALL ALACRITTY
-ln -nfs ${BASEDIR}/alacritty ~/.config/alacritty
+ln -nfs ${BASEDIR}/alacritty ~/.config/.
 
 # INSTALL FISH
-ln -nfs ${BASEDIR}/fish ~/.config/fish
+ln -nfs ${BASEDIR}/fish ~/.config/.
