@@ -14,6 +14,9 @@ ln -nfs ${BASEDIR}/.gitconfig ~/.gitconfig
 # INSTALL TMUX CONFIG
 ln -nfs ${BASEDIR}/.tmux.conf ~/.tmux.conf
 
+# INSTALL STARSHIP PROMPT CONFIG
+ln -nfs ${BASEDIR}/starship.toml ~/.config/starship.toml
+
 # INSTALL ALACRITTY
 ln -nfs ${BASEDIR}/alacritty ~/.config/.
 
