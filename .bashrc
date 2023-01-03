@@ -14,6 +14,3 @@ my-ubuntu-dev () {
     docker commit my-ubuntu ubuntu-dev-1
     docker rm my-ubuntu
 }
-
-# START FISH SHELL
-exec fish
