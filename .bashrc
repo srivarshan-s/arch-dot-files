@@ -10,11 +10,11 @@ alias ls='exa --color=auto'
 alias tmux='tmux -u'
 alias paru='paru --skipreview'
 
-# Docker Functions
+# Podman Functions
 my-ubuntu-dev () {
-    docker run -it --name my-ubuntu -v $(pwd):/workspace ubuntu-dev-1
-    docker commit my-ubuntu ubuntu-dev-1
-    docker rm my-ubuntu
+    podman run -it --name my-ubuntu -v $(pwd):/workspace ubuntu-dev-1
+    podman commit my-ubuntu ubuntu-dev-1
+    podman rm my-ubuntu
 }
 
 # Starship Prompt
