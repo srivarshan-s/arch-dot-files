@@ -26,3 +26,16 @@ sudo ln -nfs ${BASEDIR}/pacman.conf /etc/pacman.conf
 
 # INSTALL CHROME FLAGS
 ln -nfs ${BASEDIR}/chrome-flags.conf ~/.config/chrome-flags.conf
+
+# INSTALL PACMAN PACKAGES
+sudo pacman -S $(cat pacman_package_list.txt)
+
+# INSTALL AUR PACKAGES
+if command -v paru &> /dev/null
+then
+    paru -S $(cat aur_package_list.txt)
+fi
+if ! command -v paru &> /dev/null
+then
+    echo "Install paru to install aur packages!"
+fi
