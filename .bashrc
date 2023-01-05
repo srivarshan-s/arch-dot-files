@@ -12,7 +12,7 @@ alias paru='paru --skipreview'
 
 # Distrobox Functions
 my-ubuntu-dev () {
-    distrbox enter ubuntu-box
+    distrobox enter ubuntu-box
 }
 
 # Starship Prompt
