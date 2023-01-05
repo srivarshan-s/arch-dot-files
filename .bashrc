@@ -10,11 +10,6 @@ alias ls='exa --color=auto'
 alias tmux='tmux -u'
 alias paru='paru --skipreview'
 
-# Distrobox Functions
-my-ubuntu-dev () {
-    distrobox enter ubuntu-box
-}
-
 # Starship Prompt
 eval "$(starship init bash)"
 
