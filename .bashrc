@@ -26,9 +26,6 @@ export HISTCONTROL="erasedups:ignorespace"
 # Command not found
 source /usr/share/doc/pkgfile/command-not-found.bash
 
-# Auto "cd" when entering just a path
-shopt -s autocd
-
 # Replacing vi and vim with neovim
 export VISUAL="nvim"
 export EDITOR="nvim"
