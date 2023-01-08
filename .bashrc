@@ -29,3 +29,6 @@ source /usr/share/doc/pkgfile/command-not-found.bash
 # Replacing vi and vim with neovim
 export VISUAL="nvim"
 export EDITOR="nvim"
+
+# Add ~/.local/bin/ to path
+export PATH="$HOME/.local/bin/:$PATH"
