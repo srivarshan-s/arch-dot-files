@@ -30,6 +30,9 @@ ln -nfs ${BASEDIR}/chrome-flags.conf ~/.config/chrome-flags.conf
 # INSTALL PACMAN PACKAGES
 sudo pacman -S $(cat pacman_package_list.txt)
 
+# INSTALL REFLECTOR CONFIG
+ln -nfs ${BASEDIR}/reflector.conf /etc/xdg/reflector/reflector.conf
+
 # INSTALL AUR PACKAGES
 if command -v paru &> /dev/null
 then
