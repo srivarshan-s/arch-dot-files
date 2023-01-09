@@ -5,4 +5,5 @@ noisetorch
 nvim-packer-git
 onlyoffice-bin
 paru
+teams
 visual-studio-code-bin
