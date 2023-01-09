@@ -57,6 +57,7 @@ cantarell-fonts
 catatonit
 cdparanoia
 cifs-utils
+cmake
 confuse
 conmon
 containers-common
@@ -73,6 +74,7 @@ cython
 dav1d
 db5.3
 dbus
+dbus-glib
 dbus-python
 dconf
 debugedit
@@ -113,6 +115,7 @@ ffmpegthumbnailer
 file
 filesystem
 findutils
+firefox
 flac
 flashrom
 flex
@@ -151,6 +154,7 @@ gmp
 gnu-free-fonts
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -193,6 +197,7 @@ iwd
 jansson
 json-c
 json-glib
+jsoncpp
 jupyter-nbclassic
 jupyter-nbclient
 jupyter-nbconvert
@@ -509,6 +514,7 @@ lynx
 lz4
 lzo
 m4
+mailcap
 make
 mathjax2
 md4c
@@ -761,6 +767,7 @@ rav1e
 re2
 readline
 reflector
+rhash
 ripgrep
 rtkit
 run-parts
@@ -838,6 +845,7 @@ util-linux
 util-linux-libs
 v4l-utils
 vid.stab
+vim-runtime
 vlc
 vmaf
 volume_key
