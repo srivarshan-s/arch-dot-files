@@ -57,7 +57,6 @@ cantarell-fonts
 catatonit
 cdparanoia
 cifs-utils
-cmake
 confuse
 conmon
 containers-common
@@ -154,7 +153,6 @@ gmp
 gnu-free-fonts
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -197,16 +195,6 @@ iwd
 jansson
 json-c
 json-glib
-jsoncpp
-jupyter-nbclassic
-jupyter-nbclient
-jupyter-nbconvert
-jupyter-nbformat
-jupyter-notebook
-jupyter-notebook-shim
-jupyter-server
-jupyterlab
-jupyterlab_pygments
 kaccounts-integration
 kactivities
 kactivities-stats
@@ -683,7 +671,6 @@ python-jupyter-events
 python-jupyter_client
 python-jupyter_core
 python-jupyter_packaging
-python-jupyterlab_server
 python-lxml
 python-markupsafe
 python-matplotlib-inline
@@ -767,7 +754,6 @@ rav1e
 re2
 readline
 reflector
-rhash
 ripgrep
 rtkit
 run-parts
@@ -845,7 +831,6 @@ util-linux
 util-linux-libs
 v4l-utils
 vid.stab
-vim-runtime
 vlc
 vmaf
 volume_key
