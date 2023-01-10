@@ -1,4 +1,5 @@
 brave-bin
+distrobox
 github-desktop-bin
 neovim-symlinks
 noisetorch
