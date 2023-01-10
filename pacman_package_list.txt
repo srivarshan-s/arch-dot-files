@@ -390,6 +390,7 @@ libpaper
 libpcap
 libpciaccess
 libpgm
+libpipeline
 libplacebo
 libplist
 libpng
@@ -504,6 +505,7 @@ lzo
 m4
 mailcap
 make
+man-db
 mathjax2
 md4c
 mdadm
