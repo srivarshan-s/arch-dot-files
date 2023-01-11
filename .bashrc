@@ -12,9 +12,7 @@ alias tmux='tmux -u'
 alias paru='paru --skipreview'
 
 # Git Aliases
-alias gs='git fetch && git status'
-alias ga='git add'
-alias gc='git commit'
+alias git-status='git fetch && git status'
 
 # Starship Prompt
 eval "$(starship init bash)"
