@@ -9,6 +9,7 @@ PS1='[\u@\h \W]\$ '
 alias ls='exa --color=auto'
 alias tmux='tmux -u'
 alias paru='paru --skipreview'
+alias gs='git fetch && git status'
 
 # Starship Prompt
 eval "$(starship init bash)"
