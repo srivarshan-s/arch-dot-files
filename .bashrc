@@ -7,6 +7,7 @@ PS1='[\u@\h \W]\$ '
 
 # Aliases
 alias ls='exa --color=auto'
+alias ll='exa -al'
 alias tmux='tmux -u'
 alias paru='paru --skipreview'
 alias gs='git fetch && git status'
