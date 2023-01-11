@@ -1,10 +1,8 @@
 brave-bin
 distrobox
 github-desktop-bin
-microsoft-edge-dev-bin
 neovim-symlinks
 noisetorch
-nvim-packer-git
 onlyoffice-bin
 paru
 teams
