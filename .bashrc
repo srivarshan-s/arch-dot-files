@@ -32,3 +32,6 @@ export EDITOR="nvim"
 
 # Add ~/.local/bin/ to path
 export PATH="$HOME/.local/bin/:$PATH"
+
+# Add non-network local connections to access control list
+xhost +local:* > /dev/null
