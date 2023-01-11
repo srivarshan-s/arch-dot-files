@@ -45,6 +45,7 @@ boost-libs
 breeze
 breeze-gtk
 breeze-icons
+bridge-utils
 brotli
 btrfs-progs
 bzip2
@@ -59,6 +60,7 @@ cdparanoia
 cifs-utils
 confuse
 conmon
+containerd
 containers-common
 convertlit
 coreutils
@@ -87,6 +89,7 @@ dmidecode
 dmraid
 dnsmasq
 dnssec-anchors
+docker
 dolphin
 dosfstools
 double-conversion
@@ -602,10 +605,7 @@ plasma-vault
 plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
-podman
-podman-compose
 podman-dnsname
-podman-docker
 polkit
 polkit-kde-agent
 polkit-qt5
@@ -759,6 +759,7 @@ reflector
 ripgrep
 rtkit
 run-parts
+runc
 rust
 sbc
 sddm
@@ -824,6 +825,7 @@ ttf-hack
 ttf-liberation
 tzdata
 udisks2
+ufw
 unibilium
 unzip
 upower
@@ -870,6 +872,7 @@ xorg-server-common
 xorg-setxkbmap
 xorg-xauth
 xorg-xdpyinfo
+xorg-xhost
 xorg-xinit
 xorg-xkbcomp
 xorg-xmessage
