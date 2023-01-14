@@ -177,6 +177,7 @@ guile
 gvfs
 gzip
 harfbuzz
+helix
 hicolor-icon-theme
 hidapi
 highlight
@@ -762,6 +763,8 @@ rtkit
 run-parts
 runc
 rust
+rust-analyzer
+rust-src
 sbc
 sddm
 sddm-kcm
