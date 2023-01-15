@@ -85,11 +85,11 @@ device-mapper
 diffutils
 discount
 discover
+dkms
 dmidecode
 dmraid
 dnsmasq
 dnssec-anchors
-docker
 dolphin
 dosfstools
 double-conversion
@@ -494,7 +494,10 @@ linux
 linux-api-headers
 linux-firmware
 linux-firmware-whence
+linux-lts
+linux-lts-headers
 linux-zen
+linux-zen-headers
 llvm-libs
 lm_sensors
 lmdb
@@ -567,6 +570,7 @@ p11-kit
 pacman
 pacman-contrib
 pacman-mirrorlist
+pahole
 pam
 pambase
 pango
@@ -607,7 +611,10 @@ plasma-vault
 plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
+podman
+podman-compose
 podman-dnsname
+podman-docker
 polkit
 polkit-kde-agent
 polkit-qt5
