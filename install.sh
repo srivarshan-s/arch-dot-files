@@ -3,35 +3,38 @@
 BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # INSTALL BASHRC
-ln -nfs ${BASEDIR}/.bashrc ~/.bashrc
+ln -nfs ${BASEDIR}/.bashrc ~/.
 
 # INSTALL FONTS
-ln -nfs ${BASEDIR}/.fonts ~/.fonts
+ln -nfs ${BASEDIR}/.fonts ~/.
 
 # INSTALL GIT CONFIG
-ln -nfs ${BASEDIR}/.gitconfig ~/.gitconfig
+ln -nfs ${BASEDIR}/.gitconfig ~/.
 
 # INSTALL TMUX CONFIG
-ln -nfs ${BASEDIR}/.tmux.conf ~/.tmux.conf
+ln -nfs ${BASEDIR}/.tmux.conf ~/.
 
 # INSTALL STARSHIP PROMPT CONFIG
-ln -nfs ${BASEDIR}/starship.toml ~/.config/starship.toml
+ln -nfs ${BASEDIR}/starship.toml ~/.config/.
 
 # INSTALL ALACRITTY
 ln -nfs ${BASEDIR}/alacritty ~/.config/.
 
 # INSTALL PACMAN & PARU
-sudo ln -nfs ${BASEDIR}/paru.conf /etc/paru.conf
-sudo ln -nfs ${BASEDIR}/pacman.conf /etc/pacman.conf
+sudo ln -nfs ${BASEDIR}/paru.conf /etc/.
+sudo ln -nfs ${BASEDIR}/pacman.conf /etc/.
 
 # INSTALL CHROME FLAGS
-ln -nfs ${BASEDIR}/chrome-flags.conf ~/.config/chrome-flags.conf
+ln -nfs ${BASEDIR}/chrome-flags.conf ~/.config/.
+
+# INSTALL GIT CREDENTIALS
+cp ${BASEDIR}/.git-credentials ~/.
+
+# INSTALL PACMAN MIRRORLIST
+sudo ln -nfs ${BASEDIR}/mirrorlist /etc/pacman.d/.
 
 # INSTALL PACMAN PACKAGES
 sudo pacman -S $(cat pacman_package_list.txt)
-
-# INSTALL REFLECTOR CONFIG
-ln -nfs ${BASEDIR}/reflector.conf /etc/xdg/reflector/reflector.conf
 
 # INSTALL AUR PACKAGES
 if command -v paru &> /dev/null
