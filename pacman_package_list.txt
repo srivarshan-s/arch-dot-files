@@ -58,6 +58,7 @@ cantarell-fonts
 catatonit
 cdparanoia
 cifs-utils
+cmake
 confuse
 conmon
 containerd
@@ -156,6 +157,7 @@ gmp
 gnu-free-fonts
 gnupg
 gnutls
+go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -199,6 +201,7 @@ iwd
 jansson
 json-c
 json-glib
+jsoncpp
 kaccounts-integration
 kactivities
 kactivities-stats
@@ -490,7 +493,6 @@ libyaml
 libzip
 licenses
 lilv
-linux
 linux-api-headers
 linux-firmware
 linux-firmware-whence
@@ -552,7 +554,7 @@ npth
 nspr
 nss
 ntfs-3g
-nvidia
+nvidia-dkms
 nvidia-utils
 ocl-icd
 oniguruma
@@ -611,10 +613,6 @@ plasma-vault
 plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
-podman
-podman-compose
-podman-dnsname
-podman-docker
 polkit
 polkit-kde-agent
 polkit-qt5
@@ -765,6 +763,7 @@ rav1e
 re2
 readline
 reflector
+rhash
 ripgrep
 rtkit
 run-parts
@@ -846,6 +845,7 @@ util-linux
 util-linux-libs
 v4l-utils
 vid.stab
+vim-runtime
 vlc
 vmaf
 volume_key
