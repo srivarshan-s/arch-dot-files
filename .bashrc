@@ -39,3 +39,11 @@ export PATH="$HOME/.local/bin/:$PATH"
 
 # Add non-network local connections to access control list
 xhost +local:* > /dev/null
+
+# Custom function
+rank-mirror-list () {
+	rankmirrors -n 10 /etc/pacman.d/mirrorlist.backup | sudo tee /etc/pacman.d/mirrorlist > /dev/null	
+}
+git-credential-store () {
+	git config credential.helper store
+}
