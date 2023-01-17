@@ -212,6 +212,7 @@ kbd
 kbookmarks
 kcmutils
 kcodecs
+kcolorpicker
 kcompletion
 kconfig
 kconfigwidgets
@@ -240,6 +241,7 @@ khotkeys
 ki18n
 kiconthemes
 kidletime
+kimageannotator
 kinfocenter
 kio
 kio-extras
@@ -871,6 +873,7 @@ sonnet
 sord
 sound-theme-freedesktop
 source-highlight
+spectacle
 speex
 speexdsp
 spirv-tools
