@@ -42,7 +42,7 @@ xhost +local:* > /dev/null
 
 # Custom function
 rank-mirror-list () {
-	rankmirrors -n 10 /etc/pacman.d/mirrorlist.backup | sudo tee /etc/pacman.d/mirrorlist > /dev/null	
+    sudo systemctl restart reflector.service
 }
 git-credential-store () {
 	git config credential.helper store
