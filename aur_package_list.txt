@@ -1,8 +1,7 @@
 brave-bin
 github-desktop-bin
 neovim-symlinks
-noisetorch
 onlyoffice-bin
 paru
-teams
+ttf-firacode-nerd
 visual-studio-code-bin
