@@ -28,7 +28,7 @@ bind '"\e[B": history-search-forward'
 export HISTCONTROL="erasedups:ignorespace"
 
 # Command not found
-source /usr/share/doc/pkgfile/command-not-found.bash
+# source /usr/share/doc/pkgfile/command-not-found.bash
 
 # Replacing vi and vim with neovim
 export VISUAL="nvim"
