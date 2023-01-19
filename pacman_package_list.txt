@@ -90,6 +90,7 @@ dmidecode
 dmraid
 dnsmasq
 dnssec-anchors
+docker
 dolphin
 dosfstools
 double-conversion
@@ -177,7 +178,6 @@ guile
 gvfs
 gzip
 harfbuzz
-helix
 hicolor-icon-theme
 hidapi
 highlight
@@ -327,6 +327,7 @@ libcdio-paranoia
 libcloudproviders
 libcolord
 libcups
+libcurl-gnutls
 libdaemon
 libdatrie
 libdbusmenu-glib
@@ -561,6 +562,7 @@ node-gyp
 nodejs
 nodejs-nopt
 noto-fonts
+noto-fonts-cjk
 npm
 npth
 nspr
@@ -625,10 +627,6 @@ plasma-vault
 plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
-podman
-podman-compose
-podman-dnsname
-podman-docker
 polkit
 polkit-kde-agent
 polkit-qt5
@@ -848,7 +846,6 @@ tree-sitter
 tslib
 ttf-carlito
 ttf-dejavu
-ttf-firacode-nerd
 ttf-hack
 ttf-liberation
 tzdata
