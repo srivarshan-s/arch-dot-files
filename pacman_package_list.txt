@@ -506,13 +506,10 @@ libyaml
 libzip
 licenses
 lilv
+linux
 linux-api-headers
 linux-firmware
 linux-firmware-whence
-linux-lts
-linux-lts-headers
-linux-zen
-linux-zen-headers
 llvm-libs
 lm_sensors
 lmdb
@@ -568,7 +565,7 @@ npth
 nspr
 nss
 ntfs-3g
-nvidia-dkms
+nvidia
 nvidia-utils
 ocl-icd
 oniguruma
@@ -695,8 +692,10 @@ python-jupyter_client
 python-jupyter_core
 python-jupyter_packaging
 python-lxml
+python-markdown-it-py
 python-markupsafe
 python-matplotlib-inline
+python-mdurl
 python-mistune
 python-more-itertools
 python-msgpack
@@ -743,6 +742,7 @@ python-tornado
 python-traitlets
 python-trove-classifiers
 python-typing_extensions
+python-uc-micro-py
 python-urllib3
 python-validate-pyproject
 python-virtualenv
@@ -846,6 +846,7 @@ tree-sitter
 tslib
 ttf-carlito
 ttf-dejavu
+ttf-firacode-nerd
 ttf-hack
 ttf-liberation
 tzdata
@@ -860,6 +861,7 @@ util-linux
 util-linux-libs
 v4l-utils
 vid.stab
+vim-runtime
 vlc
 vmaf
 volume_key
