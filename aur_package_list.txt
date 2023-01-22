@@ -3,5 +3,4 @@ github-desktop-bin
 neovim-symlinks
 onlyoffice-bin
 paru
-ttf-firacode-nerd
 visual-studio-code-bin
