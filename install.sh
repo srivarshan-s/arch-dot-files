@@ -1,47 +1,37 @@
 #!/bin/bash
 
-BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# Install bash config
+ln -nfs $(pwd)/.bashrc ~/.
+ln -nfs $(pwd)/.bash_aliases ~/.
 
-# INSTALL BASHRC
-ln -nfs ${BASEDIR}/.bashrc ~/.
+# Install fonts
+ln -nfs $(pwd)/.fonts ~/.
+sudo fc-cache -fv
 
-# INSTALL FONTS
-ln -nfs ${BASEDIR}/.fonts ~/.
-
-# INSTALL GIT CONFIG
-ln -nfs ${BASEDIR}/.gitconfig ~/.
-
-# INSTALL TMUX CONFIG
-ln -nfs ${BASEDIR}/.tmux.conf ~/.
-
-# INSTALL STARSHIP PROMPT CONFIG
-ln -nfs ${BASEDIR}/starship.toml ~/.config/.
-
-# INSTALL ALACRITTY
-ln -nfs ${BASEDIR}/alacritty ~/.config/.
-
-# INSTALL PACMAN & PARU
-sudo ln -nfs ${BASEDIR}/paru.conf /etc/.
-sudo ln -nfs ${BASEDIR}/pacman.conf /etc/.
-
-# INSTALL CHROME FLAGS
-ln -nfs ${BASEDIR}/chrome-flags.conf ~/.config/.
-
-# INSTALL GIT CREDENTIALS
-cp ${BASEDIR}/.git-credentials ~/.
-
-# INSTALL PACMAN MIRRORLIST
-sudo ln -nfs ${BASEDIR}/mirrorlist /etc/pacman.d/.
-
-# INSTALL PACMAN PACKAGES
-sudo pacman -S $(cat pacman_package_list.txt)
-
-# INSTALL AUR PACKAGES
-if command -v paru &> /dev/null
-then
-    paru -S $(cat aur_package_list.txt)
+# Install git configs
+if [ -f ~/.git-credentials ]; then
+	echo "Git credentials file found in HOME directory!"
+else
+	cp .git-credentials ~/.
 fi
-if ! command -v paru &> /dev/null
-then
-    echo "Install paru to install aur packages!"
-fi
+ln -nfs $(pwd)/.gitconfig ~/.
+
+# Install tmux config
+ln -nfs $(pwd)/.tmux.conf ~/.
+
+# Install starship config
+ln -nfs $(pwd)/starship.toml ~/.config/.
+
+# Install alacritty config
+ln -nfs $(pwd)/alacritty ~/.config/.
+
+# Install pacman and paru
+sudo ln -nfs $(pwd)/paru.conf /etc/.
+sudo ln -nfs $(pwd)/pacman.conf /etc/.
+
+# Install google-chrome flags
+ln -nfs $(pwd)/chrome-flags.conf ~/.config/.
+
+# Install pacman mirrorlist
+sudo ln -nfs $(pwd)/mirrorlist /etc/pacman.d/.
+
