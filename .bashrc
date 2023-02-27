@@ -27,6 +27,11 @@ bind '"\e[B": history-search-forward'
 # History Customization
 export HISTCONTROL="erasedups:ignorespace"
 
+# Alias definitions.
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
 # Command not found
 # source /usr/share/doc/pkgfile/command-not-found.bash
 
@@ -42,8 +47,9 @@ xhost +local:* > /dev/null
 
 # Custom function
 rank-mirror-list () {
-    sudo systemctl restart reflector.service
+    sudo sh -c "sudo rankmirrors -n 25 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist"
 }
 git-credential-store () {
 	git config credential.helper store
 }
+
