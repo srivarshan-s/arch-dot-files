@@ -6,7 +6,7 @@ ln -nfs $(pwd)/.bash_aliases ~/.
 
 # Install fonts
 ln -nfs $(pwd)/.fonts ~/.
-sudo fc-cache -fv
+echo 'Please run "sudo fc-cache -fv" to update the font config!'
 
 # Install git configs
 if [ -f ~/.git-credentials ]; then
@@ -35,3 +35,5 @@ ln -nfs $(pwd)/chrome-flags.conf ~/.config/.
 # Install pacman mirrorlist
 sudo ln -nfs $(pwd)/mirrorlist /etc/pacman.d/.
 
+# Install hosts file
+sudo ln -nfs $(pwd)/hosts /etc/hosts
