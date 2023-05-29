@@ -13,3 +13,6 @@ alias tmux='tmux -u'
 # paru
 alias paru='paru --skipreview'
 
+# git
+alias git-status='git fetch && git status'
+
