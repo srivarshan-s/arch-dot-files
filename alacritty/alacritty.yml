@@ -28,4 +28,4 @@ key_bindings:
 
 # Import color scheme file
 import:
-  - ~/.config/alacritty/rose-pine.yml
+  - ~/.config/alacritty/gruvbox-dark.yml
