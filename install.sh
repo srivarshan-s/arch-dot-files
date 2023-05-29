@@ -25,7 +25,10 @@ ln -nfs $(pwd)/starship.toml ~/.config/.
 # Install alacritty config
 ln -nfs $(pwd)/alacritty ~/.config/.
 
-# Install pacman and paru
+# Install htop config
+ln -nfs $(pwd)/htop ~/.config/.
+
+# Install pacman and paru config
 sudo ln -nfs $(pwd)/paru.conf /etc/.
 sudo ln -nfs $(pwd)/pacman.conf /etc/.
 
