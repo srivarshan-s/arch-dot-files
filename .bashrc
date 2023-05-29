@@ -5,17 +5,11 @@
 
 PS1='[\u@\h \W]\$ '
 
-# Aliases
-alias ls='exa --color=auto'
-alias ll='exa -al'
-alias tmux='tmux -u'
-alias paru='paru --skipreview'
-
-# Git Aliases
-alias git-status='git fetch && git status'
-
 # Starship Prompt
-eval "$(starship init bash)"
+if which starship > /dev/null 2>&1
+then
+	eval "$(starship init bash)"
+fi
 
 # Source /etc/bash.bashrc
 source /etc/bash.bashrc
@@ -29,11 +23,22 @@ export HISTCONTROL="erasedups:ignorespace"
 
 # Alias definitions.
 if [ -f ~/.bash_aliases ]; then
-    . ~/.bash_aliases
+	. ~/.bash_aliases
 fi
 
-# Command not found
-# source /usr/share/doc/pkgfile/command-not-found.bash
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if ! shopt -oq posix; then
+    if [ -f /usr/share/bash-completion/bash_completion ]; then
+        . /usr/share/bash-completion/bash_completion
+    elif [ -f /etc/bash_completion ]; then
+        . /etc/bash_completion
+    fi
+fi
+
+# Add ~/.local/bin/ to path
+export PATH="$HOME/.local/bin/:$PATH"
 
 # Replacing vi and vim with neovim
 export VISUAL="nvim"
@@ -45,9 +50,10 @@ export PATH="$HOME/.local/bin/:$PATH"
 # Add non-network local connections to access control list
 xhost +local:* > /dev/null
 
-# Custom function
+# Custom functions
 rank-mirror-list () {
-    sudo sh -c "sudo rankmirrors -n 25 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist"
+	curl -s "https://archlinux.org/mirrorlist/?country=IN&protocol=https&use_mirror_status=on" | sed -e 's/^#Server/Server/' -e '/^#/d' | rankmirrors -n 5 - > /etc/pacman.d/mirrorlist
+	sudo pacman -Syy
 }
 git-credential-store () {
 	git config credential.helper store
