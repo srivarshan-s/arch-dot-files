@@ -1,6 +1,5 @@
+adw-gtk3
 brave-bin
-github-desktop-bin
-neovim-symlinks
-onlyoffice-bin
-paru
-visual-studio-code-bin
+nautilus-open-any-terminal
+paru-bin
+timeshift
