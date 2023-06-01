@@ -46,3 +46,7 @@ ln -nfs $(pwd)/dot-cargo/ ~/.cargo
 
 # Install neovim config
 ln -nfs $(pwd)/neovim/ ~/.config/nvim
+
+# Install mpv config
+ln -nfs $(pwd)/mpv/ ~/.config/.
+
