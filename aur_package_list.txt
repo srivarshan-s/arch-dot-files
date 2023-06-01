@@ -1,5 +1,9 @@
 adw-gtk3
 brave-bin
+libnvidia-container
+libnvidia-container-tools
 nautilus-open-any-terminal
+nvidia-container-toolkit
 paru-bin
 timeshift
+visual-studio-code-bin
