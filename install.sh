@@ -43,3 +43,6 @@ sudo ln -nfs $(pwd)/hosts /etc/hosts
 
 # Install cargo config
 ln -nfs $(pwd)/dot-cargo/ ~/.cargo
+
+# Install neovim config
+ln -nfs $(pwd)/neovim/ ~/.config/nvim
