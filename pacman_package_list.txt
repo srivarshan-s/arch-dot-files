@@ -87,6 +87,7 @@ dleyna
 dmraid
 dnssec-anchors
 docker
+docker-buildx
 dosfstools
 dotconf
 double-conversion
