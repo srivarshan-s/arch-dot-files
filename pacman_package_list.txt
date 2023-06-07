@@ -81,6 +81,7 @@ default-cursors
 desktop-file-utils
 device-mapper
 diffutils
+distrobox
 djvulibre
 dkms
 dleyna
