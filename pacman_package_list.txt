@@ -71,6 +71,7 @@ cups-pdf
 cups-pk-helper
 curl
 dav1d
+db
 db5.3
 dbus
 dbus-glib
