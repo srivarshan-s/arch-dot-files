@@ -5,7 +5,6 @@ acl
 adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-icon-theme
-alacritty
 alsa-card-profiles
 alsa-lib
 alsa-topology-conf
@@ -43,6 +42,7 @@ brotli
 btrfs-progs
 bubblewrap
 bzip2
+c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
@@ -582,7 +582,11 @@ nettle
 network-manager-applet
 networkmanager
 nm-connection-editor
+node-gyp
+nodejs
+nodejs-nopt
 noto-fonts-emoji
+npm
 npth
 nspr
 nss
@@ -661,7 +665,6 @@ python-jaraco.functools
 python-jaraco.text
 python-more-itertools
 python-msgpack
-python-nautilus
 python-ordered-set
 python-packaging
 python-platformdirs
@@ -700,6 +703,7 @@ sbc
 sccache
 sdl2
 sed
+semver
 serd
 shaderc
 shadow
