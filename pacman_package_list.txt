@@ -86,7 +86,6 @@ distrobox
 djvulibre
 dkms
 dleyna
-dmraid
 dnssec-anchors
 docker
 docker-buildx
@@ -370,7 +369,6 @@ libidn
 libidn2
 libiec61883
 libimobiledevice
-libindicator-gtk3
 libinih
 libinput
 libinstpatch
@@ -751,6 +749,7 @@ tracker3
 tracker3-miners
 tree-sitter
 tslib
+ttf-liberation
 twolame
 tzdata
 uchardet
