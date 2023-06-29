@@ -58,4 +58,10 @@ rank-mirror-list () {
 git-credential-store () {
 	git config credential.helper store
 }
+backup () {
+    sudo timeshift --create
+    rsync -av --delete --exclude 'venv' $HOME/Documents/ $HOME/Windows/Downloads/Documents-Backup/
+    rsync -av --delete --exclude 'venv' $HOME/Downloads/ $HOME/Windows/Downloads/Downloads-Backup/
+    rsync -av $HOME/Music/ $HOME/Windows/Downloads/Music-Backup/
+}
 
