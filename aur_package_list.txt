@@ -1,5 +1,6 @@
 adw-gtk3
 brave-bin
+google-chrome
 libnvidia-container
 libnvidia-container-tools
 nvidia-container-toolkit
