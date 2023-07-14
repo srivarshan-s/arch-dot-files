@@ -247,6 +247,7 @@ gvfs-smb
 gzip
 harfbuzz
 harfbuzz-icu
+hdparm
 hicolor-icon-theme
 hidapi
 highway
@@ -257,6 +258,7 @@ hwloc
 hyphen
 iana-etc
 icu
+iio-sensor-proxy
 ijs
 imagemagick
 imath
@@ -266,6 +268,7 @@ iproute2
 iptables
 iputils
 iso-codes
+iw
 iwd
 jansson
 jasper
@@ -639,6 +642,7 @@ poppler-data
 poppler-glib
 popt
 portaudio
+powertop
 procps-ng
 protobuf
 psmisc
@@ -688,6 +692,7 @@ qt5-declarative
 qt5-translations
 raptor
 rav1e
+rclone
 readline
 rsync
 rtkit
@@ -741,6 +746,7 @@ tevent
 texinfo
 thin-provisioning-tools
 tinycompress
+tlp
 tmux
 totem
 totem-pl-parser
@@ -758,6 +764,7 @@ unibilium
 unzip
 upower
 usbmuxd
+usbutils
 util-linux
 util-linux-libs
 v4l-utils
