@@ -6,4 +6,5 @@ libnvidia-container-tools
 nvidia-container-toolkit
 paru-bin
 timeshift
+tlpui
 visual-studio-code-bin
