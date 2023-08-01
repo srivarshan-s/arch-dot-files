@@ -1,4 +1,5 @@
 adw-gtk3
+ani-cli
 brave-bin
 google-chrome
 libnvidia-container
