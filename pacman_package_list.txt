@@ -17,6 +17,7 @@ apr
 apr-util
 archlinux-keyring
 argon2
+aria2
 at-spi2-core
 atkmm
 attr
@@ -132,6 +133,7 @@ fribidi
 fuse-common
 fuse2
 fuse3
+fzf
 gavl
 gawk
 gc
@@ -594,6 +596,7 @@ nss
 ntfs-3g
 nvidia-dkms
 nvidia-utils
+nvtop
 ocl-icd
 openal
 opencore-amr
