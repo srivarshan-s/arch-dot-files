@@ -90,6 +90,7 @@ dleyna
 dnssec-anchors
 docker
 docker-buildx
+docker-compose
 dosfstools
 dotconf
 double-conversion
@@ -649,6 +650,7 @@ powertop
 procps-ng
 protobuf
 psmisc
+pugixml
 pyside2
 python
 python-atspi
@@ -753,6 +755,7 @@ tlp
 tmux
 totem
 totem-pl-parser
+touchegg
 tpm2-tss
 tracker3
 tracker3-miners
